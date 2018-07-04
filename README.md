@@ -1,5 +1,7 @@
 # Vue JS Unit Tests
 
+[![Build Status](https://travis-ci.org/migueabellan/vue-tests.svg?branch=master)](https://travis-ci.org/migueabellan/vue-tests)
+
 This project contains a unit test for a simple to do list component. The project was set up using vue-cli and the tests are made with Mocha framework and run using Karma.
 
 When the app is running, you can navigate to localhost:8080/#/to-do to find the page for the to do list.
